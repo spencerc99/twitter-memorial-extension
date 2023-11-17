@@ -1,0 +1,9 @@
+{
+  "env": {
+    "__DEV__": "true"
+  },
+  "watch": ["extension", "utils", "vite.config.ts"],
+  "ext": "tsx,css,html,ts,scss",
+  "ignore": ["extension/**/*.spec.ts"],
+  "exec": "yarn run build-dev"
+}

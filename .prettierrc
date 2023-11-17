@@ -1,0 +1,5 @@
+{
+  "singleQuote": false,
+  "requirePragma": false,
+  "arrowParens": "always"
+}

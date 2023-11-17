@@ -1,0 +1,19 @@
+public# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# build
+/dist
+/website-dist
+# this is using a token lol don't commit
+temp-deploy-website.sh
+
+# etc
+.DS_Store
+.env.local
+.idea
+
+#generated manifest
+public/manifest.json
